@@ -22,10 +22,10 @@ sudo service <service_name> stop
 ```bash
 sudo service <service_name> status
 ```
-## For Systems Using Upstart
+## For Systems Using Upstart
 If your system uses Upstart, you can manage services with the initctl command:
 
-### List All Services:
+### List All Services:
 ```bash
 initctl list
 ```
