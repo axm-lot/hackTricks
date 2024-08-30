@@ -7,7 +7,7 @@ Open Firefox preferences:
 
 
 ## Step 2
-Navigate to about:config:
+Navigate to about:config, accept the Risk and Continue:
 ![Firefox Preferences](Assets/About.png)
 
 
